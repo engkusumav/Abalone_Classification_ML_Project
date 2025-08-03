@@ -1,2 +1,2 @@
-# MachineLearning_Project_UNSW
-Machine Learning Project from MATH5836
+# MachineLearning_Project_Abalone
+Machine Learning Project on the Abalone Dataset
